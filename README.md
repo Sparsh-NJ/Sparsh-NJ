@@ -1,3 +1,6 @@
+![2000_600px](https://user-images.githubusercontent.com/88492068/128421708-9dea69bd-6787-4cbd-960d-4fe4025446a7.gif)
+
+
 ### Hi Developers 👋, I am Sparsh Nandrajog
 
 An ardent Android App Developer from India. 
