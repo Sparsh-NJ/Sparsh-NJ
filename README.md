@@ -1,12 +1,13 @@
 ### Hi Developers 👋, I am Sparsh Nandrajog
 
-An ardent Android App Developer from India,you can find me on LinkedIn.
+An ardent Android App Developer from India. 
 
 - 🔭 I’m currently working on different android apps.
 
 - 🌱 I’m currently learning 2 technologies  Cloud Computing and Vitualization and Android App Development.
 
 - ⚡ Fun fact: Legendary COD player.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparsh-nj&label=Profile%20views&color=0e75b6&style=flat" alt="sparsh-nj" /> </p>
 
