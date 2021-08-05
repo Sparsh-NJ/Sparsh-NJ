@@ -4,7 +4,7 @@ An ardent Android App Developer from India.
 
 - 🔭 I’m currently working on different android apps.
 
-- 🌱 I’m currently learning 2 technologies  Cloud Computing and Vitualization and Android App Development.
+- 🌱 I’m currently learning 2 technologies  Cloud Computing and Virtualization and Android App Development.
 
 - ⚡ Fun fact: Legendary COD player.
 
