@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sparsh Nandrajog</h1>
+<!-- Custom Name Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sparsh+Nandrajog;Java+Backend+Developer;Spring+Boot+%7C+Microservices" />
+</p>
+
 <h3 align="center">Java Backend Developer | Spring Boot | Microservices</h3>
 
 <p align="center">
@@ -46,12 +50,6 @@ Passionate about building scalable backend systems and solving real-world proble
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=sparsh-nj&show_icons=true&theme=tokyonight" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh-nj&theme=tokyonight" />
 </p>
-
----
-
-### 🧠 Coding Practice
-
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-300%2B%20Problems-brightgreen)
 
 ---
 
