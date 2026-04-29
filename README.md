@@ -1,6 +1,6 @@
 <!-- Custom Name Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sparsh+Nandrajog;Java+Backend+Developer;Spring+Boot+%7C+Microservices" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sparsh%20Nandrajog&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=55&descAlign=50"/>
 </p>
 
 <h3 align="center">Java Backend Developer | Spring Boot | Microservices</h3>
